@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="sfdc-test-interfaceFlow" doc:id="0441a94f-07db-4056-8b0d-187332b2710d" >
+		<logger level="INFO" doc:name="Logger" doc:id="5b50baaf-bc15-4b52-be42-78dfe905c3f2" />
+	</flow>
+</mule>
